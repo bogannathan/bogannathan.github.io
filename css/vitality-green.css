@@ -731,7 +731,7 @@ a.text-primary {
     text-align: center;
     color: white !important;
     border-radius: 0 !important;
-    background-color: #5CB85C !important;
+    background-color: black;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s; }
