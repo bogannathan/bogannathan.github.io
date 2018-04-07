@@ -496,7 +496,10 @@ header.video {
   .portfolio-grid .mix {
     width: 31%;
     margin: 1%; } }
-
+/* @media (min-width: 768px) {
+  .portfolio-grid .mix2 {
+    width: 47%;
+    margin: 1%; } } */
 .testimonials {
   text-align: center; }
   .testimonials .testimonials-carousel .item .testimonial-img {
